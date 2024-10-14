@@ -1,0 +1,134 @@
+[
+  {
+    "id" : "12",
+    "name" : "Bomber",
+    "category" : "Kids' jacket",
+    "imageUrl" : [
+      "assets/images/kids_bomber_jacket.png",
+      "assets/images/kids_harrington_jacket.png"
+    ],
+    "oldPrice" : "150.00",
+    "sizes" : [
+      { "size" : "6.0", "isSelected" : false },
+      { "size" : "6.5", "isSelected" : false },
+      { "size" : "7.0", "isSelected" : false },
+      { "size" : "7.5", "isSelected" : false },
+      { "size" : "8.0", "isSelected" : false },
+      { "size" : "8.5", "isSelected" : false },
+      { "size" : "9.0", "isSelected" : false }
+    ],
+    "price" : "79.00",
+    "description" : "A classic jacket with a fitted waist and cuffs, typically featuring a zip front. Originally designed for pilots, bomber jackets offer a stylish and versatile option for casual wear.",
+    "title" : "Bomber Jacket"
+  },
+  {
+    "id" : "13",
+    "name" : "Denim",
+    "category" : "Kids' jacket",
+    "imageUrl" : [
+      "assets/images/kids_denim_jacket.png",
+      "assets/images/kids_puffer_jacket.png"
+    ],
+    "oldPrice" : "150.00",
+    "sizes" : [
+      { "size" : "6.0", "isSelected" : false },
+      { "size" : "6.5", "isSelected" : false },
+      { "size" : "7.0", "isSelected" : false },
+      { "size" : "7.5", "isSelected" : false },
+      { "size" : "8.0", "isSelected" : false },
+      { "size" : "8.5", "isSelected" : false },
+      { "size" : "9.0", "isSelected" : false }
+    ],
+    "price" : "79.00",
+    "description" : "Classic and versatile, denim jackets can be worn casually or dressed up.",
+    "title" : "Denim Jacket"
+  },
+  {
+    "id" : "14",
+    "name" : "Leather",
+    "category" : "Kids' jacket",
+    "imageUrl" : [
+      "assets/images/kids_leather_jacket.png",
+      "assets/images/kids_blazer_jacket.png"
+    ],
+    "oldPrice" : "150.00",
+    "sizes" : [
+      { "size" : "6.0", "isSelected" : false },
+      { "size" : "6.5", "isSelected" : false },
+      { "size" : "7.0", "isSelected" : false },
+      { "size" : "7.5", "isSelected" : false },
+      { "size" : "8.0", "isSelected" : false },
+      { "size" : "8.5", "isSelected" : false },
+      { "size" : "9.0", "isSelected" : false }
+    ],
+    "price" : "79.00",
+    "description" : "Known for their durability and style, leather jackets come in various styles like biker and bomber.",
+    "title" : "Leather Jacket"
+  },
+  {
+    "id" : "15",
+    "name" : "Blazer",
+    "category" : "Kids' jacket",
+    "imageUrl" : [
+      "assets/images/kids_blazer_jacket.png",
+      "assets/images/kids_leather_jacket.png"
+    ],
+    "oldPrice" : "150.00",
+    "sizes" : [
+      { "size" : "6.0", "isSelected" : false },
+      { "size" : "6.5", "isSelected" : false },
+      { "size" : "7.0", "isSelected" : false },
+      { "size" : "7.5", "isSelected" : false },
+      { "size" : "8.0", "isSelected" : false },
+      { "size" : "8.5", "isSelected" : false },
+      { "size" : "9.0", "isSelected" : false }
+    ],
+    "price" : "79.00",
+    "description" : "A more formal option, blazers are often made from lightweight fabrics and can be worn for both business and casual occasions.",
+    "title" : "Blazer Jacket"
+  },
+  {
+    "id" : "16",
+    "name" : "Puffer",
+    "category" : "Kids' jacket",
+    "imageUrl" : [
+      "assets/images/kids_puffer_jacket.png",
+      "assets/images/kids_denim_jacket.png"
+    ],
+    "oldPrice" : "150.00",
+    "sizes" : [
+      { "size" : "6.0", "isSelected" : false },
+      { "size" : "6.5", "isSelected" : false },
+      { "size" : "7.0", "isSelected" : false },
+      { "size" : "7.5", "isSelected" : false },
+      { "size" : "8.0", "isSelected" : false },
+      { "size" : "8.5", "isSelected" : false },
+      { "size" : "9.0", "isSelected" : false }
+    ],
+    "price" : "79.00",
+    "description" : "Ideal for colder weather, puffer jackets are insulated and provide warmth, often featuring a quilted design.",
+    "title" : "Puffer Jacket"
+  },
+  {
+    "id" : "17",
+    "name" : "Harrington",
+    "category" : "Kids' jacket",
+    "imageUrl" : [
+      "assets/images/kids_harrington_jacket.png",
+      "assets/images/kids_bomber_jacket.png"
+    ],
+    "oldPrice" : "150.00",
+    "sizes" : [
+      { "size" : "6.0", "isSelected" : false },
+      { "size" : "6.5", "isSelected" : false },
+      { "size" : "7.0", "isSelected" : false },
+      { "size" : "7.5", "isSelected" : false },
+      { "size" : "8.0", "isSelected" : false },
+      { "size" : "8.5", "isSelected" : false },
+      { "size" : "9.0", "isSelected" : false }
+    ],
+    "price" : "79.00",
+    "description" : "A lightweight, casual jacket with a zip front and a tartan lining, Harrington jackets are stylish for a variety of occasions.",
+    "title" : "Harrington Jacket"
+  }
+]

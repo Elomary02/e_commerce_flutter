@@ -1,0 +1,134 @@
+[
+  {
+    "id" : "6",
+    "name" : "Bomber",
+    "category" : "Women's jacket",
+    "imageUrl" : [
+      "assets/images/women_bomber_jacket.png",
+      "assets/images/women_harrington_jacket.png"
+    ],
+    "oldPrice" : "150.00",
+    "sizes" : [
+      { "size" : "6.0", "isSelected" : false },
+      { "size" : "6.5", "isSelected" : false },
+      { "size" : "7.0", "isSelected" : false },
+      { "size" : "7.5", "isSelected" : false },
+      { "size" : "8.0", "isSelected" : false },
+      { "size" : "8.5", "isSelected" : false },
+      { "size" : "9.0", "isSelected" : false }
+    ],
+    "price" : "79.00",
+    "description" : "A classic jacket with a fitted waist and cuffs, typically featuring a zip front. Originally designed for pilots, bomber jackets offer a stylish and versatile option for casual wear.",
+    "title" : "Bomber Jacket"
+  },
+  {
+    "id" : "7",
+    "name" : "Denim",
+    "category" : "Women's jacket",
+    "imageUrl" : [
+      "assets/images/women_denim_jacket.png",
+      "assets/images/women_puffer_jacket.png"
+    ],
+    "oldPrice" : "150.00",
+    "sizes" : [
+      { "size" : "6.0", "isSelected" : false },
+      { "size" : "6.5", "isSelected" : false },
+      { "size" : "7.0", "isSelected" : false },
+      { "size" : "7.5", "isSelected" : false },
+      { "size" : "8.0", "isSelected" : false },
+      { "size" : "8.5", "isSelected" : false },
+      { "size" : "9.0", "isSelected" : false }
+    ],
+    "price" : "79.00",
+    "description" : "Classic and versatile, denim jackets can be worn casually or dressed up.",
+    "title" : "Denim Jacket"
+  },
+  {
+    "id" : "8",
+    "name" : "Leather",
+    "category" : "Women's jacket",
+    "imageUrl" : [
+      "assets/images/women_leather_jacket.png",
+      "assets/images/women_blazer_jacket.png"
+    ],
+    "oldPrice" : "150.00",
+    "sizes" : [
+      { "size" : "6.0", "isSelected" : false },
+      { "size" : "6.5", "isSelected" : false },
+      { "size" : "7.0", "isSelected" : false },
+      { "size" : "7.5", "isSelected" : false },
+      { "size" : "8.0", "isSelected" : false },
+      { "size" : "8.5", "isSelected" : false },
+      { "size" : "9.0", "isSelected" : false }
+    ],
+    "price" : "79.00",
+    "description" : "Known for their durability and style, leather jackets come in various styles like biker and bomber.",
+    "title" : "Leather Jacket"
+  },
+  {
+    "id" : "9",
+    "name" : "Blazer",
+    "category" : "Women's jacket",
+    "imageUrl" : [
+      "assets/images/women_blazer_jacket.png",
+      "assets/images/women_leather_jacket.png"
+    ],
+    "oldPrice" : "150.00",
+    "sizes" : [
+      { "size" : "6.0", "isSelected" : false },
+      { "size" : "6.5", "isSelected" : false },
+      { "size" : "7.0", "isSelected" : false },
+      { "size" : "7.5", "isSelected" : false },
+      { "size" : "8.0", "isSelected" : false },
+      { "size" : "8.5", "isSelected" : false },
+      { "size" : "9.0", "isSelected" : false }
+    ],
+    "price" : "79.00",
+    "description" : "A more formal option, blazers are often made from lightweight fabrics and can be worn for both business and casual occasions.",
+    "title" : "Blazer Jacket"
+  },
+  {
+    "id" : "10",
+    "name" : "Puffer",
+    "category" : "Women's jacket",
+    "imageUrl" : [
+      "assets/images/women_puffer_jacket.png",
+      "assets/images/women_denim_jacket.png"
+    ],
+    "oldPrice" : "150.00",
+    "sizes" : [
+      { "size" : "6.0", "isSelected" : false },
+      { "size" : "6.5", "isSelected" : false },
+      { "size" : "7.0", "isSelected" : false },
+      { "size" : "7.5", "isSelected" : false },
+      { "size" : "8.0", "isSelected" : false },
+      { "size" : "8.5", "isSelected" : false },
+      { "size" : "9.0", "isSelected" : false }
+    ],
+    "price" : "79.00",
+    "description" : "Ideal for colder weather, puffer jackets are insulated and provide warmth, often featuring a quilted design.",
+    "title" : "Puffer Jacket"
+  },
+  {
+    "id" : "11",
+    "name" : "Harrington",
+    "category" : "Women's jacket",
+    "imageUrl" : [
+      "assets/images/women_harrington_jacket.png",
+      "assets/images/women_bomber_jacket.png"
+    ],
+    "oldPrice" : "150.00",
+    "sizes" : [
+      { "size" : "6.0", "isSelected" : false },
+      { "size" : "6.5", "isSelected" : false },
+      { "size" : "7.0", "isSelected" : false },
+      { "size" : "7.5", "isSelected" : false },
+      { "size" : "8.0", "isSelected" : false },
+      { "size" : "8.5", "isSelected" : false },
+      { "size" : "9.0", "isSelected" : false }
+    ],
+    "price" : "79.00",
+    "description" : "A lightweight, casual jacket with a zip front and a tartan lining, Harrington jackets are stylish for a variety of occasions.",
+    "title" : "Harrington Jacket"
+  }
+]
